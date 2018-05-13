@@ -1,0 +1,221 @@
+html{
+	height:100%;
+}
+body{
+	background-color: #e6fff2;
+	z-index: 1;
+	margin:0;
+	height:100%;
+	overflow-x: hidden;
+}
+div{
+	width:100%;
+	height:100%;
+}
+.text{
+	width:208vmin;
+	height:100vmin;
+	font-family:"IM Fell Double Pica";
+	font-size: 40px;
+	padding-left: 10px;
+	z-index:3;
+	position: absolute;
+	top:-20px;
+}
+/*.splatter{
+	width:100%;
+	height:100%;
+	position: absolute;
+	z-index: 1;
+	top:0px;
+}*/
+.pardiv{
+	height:100%;
+	width:20%;
+}
+.parallax{ 
+    background-image: url("splatterimage.png");
+    z-index: 1;
+    margin: 0;
+    height: 1000px;
+    width:1500px;
+    position: fixed;
+    background-origin:content-box;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+/*img{
+	width:100%;
+	height: 250%;
+}*/
+
+/*img:hover {*/
+    /* Start the shake animation and make the animation last for 0.5 seconds */
+    /*animation: shake 0.5s; */
+    /* When the animation is finished, start again */
+    /*animation-iteration-count: 3; 
+}*/
+/*
+@keyframes shake {
+    0% { transform: translate(1px, 1px) rotate(0deg); }
+    10% { transform: translate(-1px, -2px) rotate(-1deg); }
+    20% { transform: translate(-3px, 0px) rotate(1deg); }
+    30% { transform: translate(3px, 2px) rotate(0deg); }
+    40% { transform: translate(1px, -1px) rotate(1deg); }
+    50% { transform: translate(-1px, 2px) rotate(-1deg); }
+    60% { transform: translate(-3px, 1px) rotate(0deg); }
+    70% { transform: translate(3px, 1px) rotate(-1deg); }
+    80% { transform: translate(-1px, -1px) rotate(1deg); }
+    90% { transform: translate(1px, 2px) rotate(0deg); }
+    100% { transform: translate(1px, -2px) rotate(-1deg); }
+}*/
+
+
+/*#s1{
+	top:-100px;
+	left:500px;
+}
+#s2{
+	top:200px;
+	left:400px;
+}
+#s3{
+	top:-100px;
+	left:-100px;
+}
+#s4{
+	top:-220px;
+	left:-220px;
+}
+#s5{
+	left:100px;
+	top:-200px;
+}
+#s6{
+	left:200px;
+	top:-200px;
+}
+#s7{
+	left:700px;
+	top:-200px;
+}
+#s8{
+	left:900px;
+	top:-100px;
+}
+#s9{
+	left:-100px;
+	top:200px;
+}
+#s10{
+	left:-260px;
+	top:290px;
+}
+#s11{
+	left:800px;
+	top:200px;
+}
+#s12{
+	left:300px;
+	top:100px;
+}
+#s13{
+	left:750px;
+	top:100px;
+}
+#s14{
+	left:650px;
+	top:300px;
+}
+#s15{
+	left:100px;
+	top:250px;
+}
+#s16{
+	left:50px;
+	top:50px;
+}
+#s17{
+	left:400px;
+	top:100px;
+}
+#s18{
+	left:900px;
+	top:-270px;
+}
+#s19{
+	left:250px;
+	top:100px;
+}
+#s20{
+	left:-20px;
+	top:-100px;
+}
+#s21{
+	left:850px;
+	top:130px;
+}
+#s22{
+	left:650px;
+	top:0px;
+}
+#s23{
+	left:550px;
+	top:-200px;
+}
+#s24{
+	left:-100px;
+	top:-200px;
+}
+#s25{
+	left:200px;
+	top:-170px;
+}
+#s26{
+	left:-200px;
+	top:200px;
+}
+#s27{
+	left:-170px;
+	top:-90px;
+}
+#s28{
+	left:670px;
+	top:190px;
+}
+#s29{
+	height:150px;
+	width: 150px;
+	left:130px;
+	top:-250px;
+}
+#s30{
+	left:400px;
+	top:20px;
+}
+#s31{
+	left:950px;
+	top:-140px;
+}
+#s32{
+	left:500px;
+	top:290px;
+}
+#s33{
+	left:400px;
+	top:-100px;
+}
+#s34{
+	top:250px;
+	left:1015px;
+}
+*/
+
+
+
+
+
+
+

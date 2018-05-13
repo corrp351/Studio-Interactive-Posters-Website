@@ -1,0 +1,122 @@
+body{
+	width:100%;
+	height:100%;
+	margin:0;
+/*	background-color: #ffffff;*/
+	overflow-x: hidden;
+	padding-left: 5px;
+}
+img{
+	position: absolute;
+	z-index: 3;
+	cursor: 
+}
+.changelink{
+	color:gray;
+}
+.changelink:hover{
+	cursor: pointer;
+}
+.text{
+	width:200vmin;
+	height: 100vmin;
+	font-family: "Amiri";
+	font-size: 40px;
+	position: absolute;
+	top:-30px;
+	z-index: 1
+}
+.grabbable {
+    cursor: move;
+    cursor: grab;
+}
+.grabbable:active { 
+    cursor: grabbing;
+}
+#r1{
+	width:5%;
+	height:20%;
+}
+#r2{
+	width:10%;
+	height:35%;
+	top:3600px;
+	left:-10px;
+}
+#r3{
+	width:10%;
+	height:35%;
+	left:300px;
+}
+#r4{
+	width:18%;
+	height:19%;
+	left:550px;
+	top:3100px;
+	transform: rotate(60deg);
+}
+#r5{
+	width:17%;
+	height:15%;
+	top:850px;
+	left:430px;
+	transform: rotate(40deg);
+}
+#r6{
+	width:7%;
+	height:25%;
+	top: 2700px;
+	left:900px;
+	transform: rotate(35deg);
+}
+#r7{
+	width:20%;
+	height:15%;
+	top:1050px;
+	left:1000px;
+}
+#r8{
+	width:10%;
+	height:35%;
+	left:180px;
+	top:430px;
+	transform: rotate(-40deg);
+}
+#r9{
+	width:11%;
+	height:20%;
+	left:1150px;
+	top:1600px;
+}
+#r10{
+	width:5%;
+	height:17%;
+	left:700px;
+	top:2550px;
+	transform: rotate(60deg);
+}
+#r11{
+	width:10%;
+	height:35%;
+	left:1100px;
+	top: 300px;
+}
+#r12{
+	width:10%;
+	height:35%;
+	top:980px;
+	left:650px;
+}
+#r13{
+	width:10%;
+	height:35%;
+	left:850px;
+	top:1820px;
+	transform: rotate(90deg);
+}
+#r14{
+	width:10%;
+	height:35%;
+	left:150px;
+	top:2090px;
+}

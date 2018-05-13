@@ -1,0 +1,29 @@
+body{
+	width:100%;
+	height:100%;
+	margin:0;
+}
+.book{
+	width:100%;
+	height:100%;
+	position: absolute;
+}
+#book1{
+	left:-90px;
+}
+#book2{
+	left:-90px;
+	top:700px;
+}
+#book3{
+	left:-90px;
+	top:1400px;
+}
+#book4{
+	left:-90px;
+	top:2100px;
+}
+#book5{
+	left:-90px;
+	top:2800px;
+}

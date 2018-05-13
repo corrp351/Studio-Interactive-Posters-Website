@@ -1,0 +1,190 @@
+.body{
+	width:100%;
+	height:100%;
+	background-color:#e6ffe6;
+	margin:0;
+}
+div.wrapper {
+	display: flex;
+	flex-direction: column;
+}
+.img{
+	height:100px;
+	width:100px;
+}
+.img:hover{
+	transform: scale(1.5);
+}
+.colorpages{
+	width:100%;
+	height:100%;
+	overflow: hidden;
+}
+.colorpageflowers{
+	position: absolute;
+	width:100vmin;
+	height: 100vmin;
+	z-index: 3;
+}
+.colorpagetext{
+	position:absolute;
+	overflow-x: hidden;
+	overflow-y: scroll;
+	width:100vmin;
+	height: 220vmin;
+	font-family: "East Sea Dokdo";
+	font-size: 30px;
+	line-height: 50px;
+	color:white;
+	transform: rotate(90deg);
+	top:-370px;
+	left:350px;
+	z-index: 1;
+}
+
+#f1c{
+	left:300px;
+}
+#f2c{
+	left:300px;
+}
+#f3c{
+	left:300px;
+}
+#f4c{
+	left:300px;
+}
+#f5c{
+	left:300px;
+}
+#f6c{
+	left:300px;
+}
+#f7c{
+	left:300px;
+}
+#f8c{
+	left:300px;
+}
+#f9c{
+	left:300px;
+}
+#f10c{
+	left:300px;
+}
+#f11c{
+	left:300px;
+}
+#f12c{
+	left:300px;
+}
+#f13c{
+	left:300px;
+}
+#f14c{
+	left:300px;
+}
+#f15c{
+	left:300px;
+}
+#f16c{
+	left:300px;
+}
+#f17c{
+	left:300px;
+}
+#f18c{
+	left:300px;
+}
+#f19c{
+	left:300px;
+}
+#f20c{
+	left:300px;
+}
+#f21c{
+	left:300px;
+}
+#f22c{
+	left:300px;
+}
+
+
+#color1{
+	background-color: #6666ff;
+}
+#color2{
+	background-color: #66ffb3;
+}
+#color3{
+	background-color: #ffff00;
+}
+#color4{
+	background-color: #99004d;
+}
+#color5{
+	background-color: #ffe6ff;
+}
+#color6{
+	background-color: #ccccff;
+}
+#color7{
+	background-color: #3333ff;
+}
+#color8{
+	background-color: #d6f9ff;
+}
+#color9{
+	background-color: #b344f6;
+}
+#color10{
+	background-color: #aa66b1;
+}
+#color11{
+	background-color: #932566;
+}
+#color12{
+	background-color: #b9f633;
+}
+#color13{
+	background-color: #42c3bb;
+}
+#color14{
+	background-color: #e92365;
+}
+#color15{
+	background-color: #bc11d4;
+}
+#color16{
+	background-color: #d9ff11;
+}
+#color17{
+	background-color: #93c266;
+}
+#color18{
+	background-color: #b6ffd1;
+}
+#color19{
+	background-color: #c3bbd5;
+}
+#color20{
+	background-color: #56cc97;
+}
+#color21{
+	background-color: #11be13;
+}
+#color22{
+	background-color: #d64893;
+}
+
+
+/*.parallax { 
+    background-image: url("img_parallax.jpg");
+
+    height: 100%; 
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}*/

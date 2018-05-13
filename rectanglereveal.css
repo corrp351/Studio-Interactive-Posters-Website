@@ -1,0 +1,260 @@
+body{
+	height:100%;
+	width:100%;
+	margin:0;
+	overflow: hidden;
+	background-image:url("Designed Mandala Color.png");
+	background-position: center;
+	background-repeat:repeat; 
+}
+.secondbody{
+	background-image:url("sgb.jpg");
+}
+button:focus{
+    outline: none;
+}
+button{
+	transform-style: preserve-3d;
+}
+
+button{
+	border: none;
+	padding: 0px;
+	position: absolute;
+	transition: all 3s ease;
+	background:none; 
+}
+
+button:hover {
+	transform-origin: center bottom;
+	transform: rotateX(-90deg) translateY(100%);
+}
+
+
+#r1{
+	width: 100px;
+	height: 320px;
+	background: #cc0066;
+	position: relative;
+	z-index: 3;
+}
+#r2{
+	width: 100px;
+	height: 320px;
+	background: #f236d4;
+	position: relative;
+	top:320px;
+	z-index: 3;
+}
+#r3{
+	width: 100px;
+	height: 320px;
+	background: #c3f8f3;
+	position: relative;
+	left:100px;
+	z-index: 3;
+}
+#r4{
+	width: 100px;
+	height: 320px;
+	background: #11f34d;
+	position: relative;
+	top:320px;
+	left:100px;
+	z-index: 3;
+}
+#r5{
+	width: 100px;
+	height: 320px;
+	background: #6666ff;
+	position: relative;
+	left:200px;
+	z-index: 3;
+}
+#r6{
+	width: 100px;
+	height: 320px;
+	background: #ff471a;
+	position: relative;
+	top:320px;
+	left:200px;
+	z-index: 3;
+}
+#r7{
+	width: 100px;
+	height: 320px;
+	background: #ff80bf;
+	position: relative;
+	left:300px;
+	z-index: 3;
+}
+#r8{
+	width: 100px;
+	height: 320px;
+	background: #f0ff06;
+	position: relative;
+	top:320px;
+	left:300px;
+	z-index: 3;
+}
+#r9{
+	width: 100px;
+	height: 320px;
+	background: #0023f9;
+	position: relative;
+	left:400px;
+	z-index: 3;
+}
+#r10{
+	width: 100px;
+	height: 320px;
+	background: #660066;
+	position: relative;
+	top:320px;
+	left:400px;
+	z-index: 3;
+}
+#r11{
+	width: 100px;
+	height: 320px;
+	background: #00ffbf;
+	position: relative;
+	left:500px;
+	z-index: 3;
+}
+#r12{
+	width: 100px;
+	height: 320px;
+	background: #ccccff;
+	position: relative;
+	top:320px;
+	left:500px;
+	z-index: 3;
+}
+#r13{
+	width: 100px;
+	height: 320px;
+	background: #8585ad;
+	position: relative;
+	left:600px;
+	z-index: 3;
+}
+#r14{
+	width: 100px;
+	height: 320px;
+	background: #851aff;
+	position: relative;
+	top:320px;
+	left:600px;
+	z-index: 3;
+}
+#r15{
+	width: 100px;
+	height: 320px;
+	background: #ff0066;
+	position: relative;
+	left:700px;
+	z-index: 3;
+}
+#r16{
+	width: 100px;
+	height: 320px;
+	background: #ff9900;
+	position: relative;
+	top:320px;
+	left:700px;
+	z-index: 3;
+}
+#r17{
+	width: 100px;
+	height: 320px;
+	background: #003300;
+	position: relative;
+	left:800px;
+	z-index: 3;
+}
+#r18{
+	width: 100px;
+	height: 320px;
+	background: #66ffcc;
+	position: relative;
+	top:320px;
+	left:800px;
+	z-index: 3;
+}
+#r19{
+	width: 100px;
+	height: 320px;
+	background: #db4dff;
+	position: relative;
+	left:900px;
+	z-index: 3;
+}
+#r20{
+	width: 100px;
+	height: 320px;
+	background: #99004d;
+	position: relative;
+	top:320px;
+	left:900px;
+	z-index: 3;
+}
+#r21{
+	width: 100px;
+	height: 320px;
+	background: #ccffcc;
+	position: relative;
+	left:1000px;
+	z-index: 3;
+}
+#r22{
+	width: 100px;
+	height: 320px;
+	background: #ff3000;
+	position: relative;
+	top:320px;
+	left:1000px;
+	z-index: 3;
+}
+#r23{
+	width: 100px;
+	height: 320px;
+	background: #ccff33;
+	position: relative;
+	left:1100px;
+	z-index: 3;
+}
+#r24{
+	width: 100px;
+	height: 320px;
+	background: #33bbff;
+	position: relative;
+	top:320px;
+	left:1100px;
+	z-index: 3;
+}
+#r25{
+	width: 100px;
+	height: 320px;
+	background: #990099;
+	position: relative;
+	left:1200px;
+	z-index: 3;
+}
+#r26{
+	width: 100px;
+	height: 320px;
+	background: #ffff99;
+	position: relative;
+	top:320px;
+	left:1200px;
+	z-index: 3;
+}
+
+
+
+
+
+
+
+
